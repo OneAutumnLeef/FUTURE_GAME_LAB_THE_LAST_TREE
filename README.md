@@ -1,9 +1,10 @@
-# FUTURE-GAME-LAB_THE-LAST-TREE
+> # FUTURE-GAME-LAB_THE-LAST-TREE
 
-#HOW TO RUN
+> HOW TO RUN
 
-#Download and run obviously.
+> Download the executable file and run on chrome/any other browser.
 
-#Made by: 
-#Future Game Labs
-#Saurabh,Yashwanth,Akshayasree,Jananathan,Deraj Yojith.
+> Made by: 
+
+>  Future Game Labs
+> * Saurabh,Yashwanth,Akshayasree,Jananathan,Deraj Yojith.
